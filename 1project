@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <title><B>WEB PAGE</B></title>
+  <h1>
+    <i>VNITSW</i>
+  </h1>
+  <h3>Departments:</h3>
+  <p>
+    
+      <ol>
+        <Li>CSE</Li>
+        <Li>ECE</Li>
+        <Li>EEE</Li>
+        <Li>IT</Li>
+    </ol>
+  </p>
+</html>
